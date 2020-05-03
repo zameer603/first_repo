@@ -1,2 +1,3 @@
 this is third file
 modifying third file
+adding another line to check diff commnad
